@@ -1,0 +1,2 @@
+# Group-Project-Website
+This was a year long group project where i worked on the registration/login and authentication emails along with segregating users into seperate groups of users/admin/teachers to alter what they could view. I then worked with the team on the profiles and to helped with any problems the team may have had. This repository contains the report for the detailed screenshots of the website.
